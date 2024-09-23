@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Sobre o conteúdo:
+Aula 23/09
+
+PWA Aplicação web Progressiva, eu posso ter uma aplicação que posso utilizar no celular e tal. 
+
+para trazer a pasta nodemodules 
+npm i
